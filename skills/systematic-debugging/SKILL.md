@@ -1,5 +1,6 @@
 ---
 name: systematic-debugging
+tags: [development]
 description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 ---
 
